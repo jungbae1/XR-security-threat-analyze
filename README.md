@@ -13,8 +13,10 @@
  
  # 취약점 분석 이외의 가이드 라인 및 개인정보 실태 분석 표 같은 경우는 메일을 통해 전달드리도록 하겠습니다.
  
+ 
+ 
  #----------------------------#
-jueygrace@gmail.com
+jueygrace@gmail.com 
 yy0099@kakao.com
 yubin_1012@naver.com
 nohyon@icloud.com
